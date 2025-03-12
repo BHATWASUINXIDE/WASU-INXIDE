@@ -42,7 +42,7 @@ def ua():
     rx=random.randrange(1, 999)
     xx=f"Mozilla/5.0 (Wi    ndows NT 10.0; {str(rr(9,11))}; Win64; x64){str(aZ)}{str(rx)}{str(aZ)}) AppleWebKit/537.36 (KHTML, like Gecko){str(rr(99,149))}.0.{str(rr(4500,4999))}.{str(rr(35,99))} Chrome/{str(rr(99,175))}.0.{str(rr(0,5))}.{str(rr(0,5))} Safari/537.36"
     xx=f"Mozilla/5.0 (Linux; Android 12; X104-EEA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6304.201 Mobile Safari/537.36"
-    xx=f"Mozilla/5.0 (Linux; Android 14; MI PAD 4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.6315.215 Mobile Safari/537.36"
+    xx=f"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36"
     return xx
 #----------------------------[LOGO]-----------------------------------#
 logo = (f"""        
